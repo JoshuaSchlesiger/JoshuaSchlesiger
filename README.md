@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **PHP (Laravel), JAVA**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DochSergeantTV](https://github.com/DochSergeantTV)
+- 👨‍💻 All of my projects are available at [https://github.com/DochSergeantTV](https://github.com/MilschSchnitte)
 
 - 💬 Ask me about **Assembly**
 
