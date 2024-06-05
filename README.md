@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Assembly**
 
-- ⚡ Fun fact **I like cats more humans**
+- ⚡ Fun fact **I like cats more than humans**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
