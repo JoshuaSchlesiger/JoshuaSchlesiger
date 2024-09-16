@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dochsergeanttv&label=Profile%20views&color=0e75b6&style=flat" alt="dochsergeanttv" /> </p>
 
-- 🌱 I’m currently learning **PHP (Laravel), JAVA**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MilschSchnitte](https://github.com/MilschSchnitte)
 
