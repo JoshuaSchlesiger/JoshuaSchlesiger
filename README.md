@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MilschSchnitte](https://github.com/JoshuaSchlesiger)
+- 👨‍💻 All of my projects are available at [https://github.com/JoshuaSchlesiger](https://github.com/JoshuaSchlesiger)
 
 - 💬 Ask me about **Assembly**
 
